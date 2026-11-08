@@ -37,5 +37,5 @@
 ## Task3: Verify and publish
 - [x] Run unit/browser/axe, formatting, build, DESIGN lint and strict audit.
 - [x] Request a fresh read-only whole-project reviewer, resolve important findings.
-- [ ] Verify production asset prefix, commit/push and wait for Pages success.
-- [ ] Verify the public site and report the finished link.
+- [x] Verify production asset prefix, commit/push and wait for Pages success.
+- [x] Verify the public site and report the finished link.

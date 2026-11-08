@@ -1,0 +1,35 @@
+{
+  "source_url": "https://market-backend.api.2gis.ru/5.0/product/items_by_branch?branch_id=70000001025191287&locale=ru_RU&page=1&page_size=50&feature_config=categories_without_fake_first_level,range_price_type_supported,from_price_type_supported,fas_not_ad_text",
+  "response": {
+    "meta": {
+      "code": 200,
+      "api_version": "5.1.0"
+    },
+    "result": {
+      "total": 0,
+      "items": [],
+      "pinned_items": [],
+      "list_info": {
+        "view": {
+          "type": "catalog",
+          "show_fields": "all",
+          "is_show_pinned_widget_in_prices_tab": false
+        },
+        "fas": null,
+        "source": null,
+        "disclaimer": null
+      },
+      "dicts": {
+        "fas": [],
+        "sources": [],
+        "currencies": null
+      },
+      "filters": {
+        "main": []
+      },
+      "categories": null,
+      "bss": {}
+    }
+  },
+  "fetched_at_utc": "2026-11-08T14:20:10+00:00"
+}

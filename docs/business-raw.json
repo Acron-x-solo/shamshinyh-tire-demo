@@ -1,0 +1,359 @@
+{
+  "address": {
+    "building_id": "70030076127509717",
+    "components": [
+      {
+        "number": "93а",
+        "street": "Семьи Шамшиных",
+        "street_id": "141476222740918",
+        "type": "street_number"
+      }
+    ],
+    "postcode": "630005"
+  },
+  "address_name": "Семьи Шамшиных, 93а",
+  "adm_div": [
+    {
+      "id": "1",
+      "name": "Россия",
+      "type": "country"
+    },
+    {
+      "id": "1267655302447167",
+      "name": "Новосибирская область",
+      "type": "region"
+    },
+    {
+      "id": "70030076118167430",
+      "name": "Новосибирск городской округ",
+      "type": "district_area"
+    },
+    {
+      "city_alias": "novosibirsk",
+      "flags": {
+        "is_default": true,
+        "is_district_area_center": true,
+        "is_region_center": true
+      },
+      "id": "141360258613345",
+      "is_default": true,
+      "name": "Новосибирск",
+      "type": "city"
+    },
+    {
+      "id": "141347373711458",
+      "name": "Центральный район",
+      "type": "district"
+    }
+  ],
+  "city_alias": "novosibirsk",
+  "external_content": [
+    {
+      "count": 55,
+      "main_photo_url": "https://i4.photo.2gis.com/main/branch/1/70000001025191287/common",
+      "subtype": "common",
+      "type": "photo_album"
+    },
+    {
+      "count": 5,
+      "main_photo_url": "https://i7.photo.2gis.com/main/geo/1/70030076127509717/view",
+      "subtype": "view",
+      "type": "photo_album"
+    }
+  ],
+  "flags": {
+    "photos": true
+  },
+  "has_ads_model": false,
+  "has_apartments_info": false,
+  "has_discount": false,
+  "has_goods": false,
+  "has_pinned_goods": false,
+  "has_realty": false,
+  "id": "70000001025191287",
+  "is_promoted": false,
+  "links": {
+    "database_entrances": [
+      {
+        "geometry": {
+          "normals": [
+            "LINESTRING(83.186352 54.082823,82.927457 55.048729)"
+          ],
+          "points": [
+            "POINT(82.92745712557469 55.04872884694768)"
+          ],
+          "vectors": [
+            "LINESTRING(82.927481 55.04864,82.927457 55.048729)"
+          ]
+        },
+        "id": "70030076127509723",
+        "is_primary": false,
+        "is_visible_on_map": true
+      }
+    ],
+    "entrances": [
+      {
+        "geometry": {
+          "normals": [
+            "LINESTRING(83.186352 54.082823,82.927457 55.048729)"
+          ],
+          "points": [
+            "POINT(82.92745712557469 55.04872884694768)"
+          ],
+          "vectors": [
+            "LINESTRING(82.927481 55.04864,82.927457 55.048729)"
+          ]
+        },
+        "id": "70030076127509723",
+        "is_primary": false,
+        "is_visible_on_map": true
+      }
+    ],
+    "nearest_metro": [
+      {
+        "distance": 900,
+        "id": "141523467371738"
+      },
+      {
+        "distance": 1100,
+        "id": "141523467371734"
+      },
+      {
+        "distance": 1100,
+        "id": "141523467371221"
+      },
+      {
+        "distance": 1300,
+        "id": "141523467370681"
+      }
+    ],
+    "nearest_parking": [
+      {
+        "id": "70030077055723312"
+      },
+      {
+        "id": "70030077175227908"
+      },
+      {
+        "id": "70030077055723294"
+      },
+      {
+        "id": "70030077055723276"
+      },
+      {
+        "id": "70030077131621020"
+      },
+      {
+        "id": "141794050311335"
+      },
+      {
+        "id": "70030076985020075"
+      },
+      {
+        "id": "70030077175507864"
+      },
+      {
+        "id": "70030077131621019"
+      },
+      {
+        "id": "70030076958161193"
+      },
+      {
+        "id": "70030076136673464"
+      },
+      {
+        "id": "70030076985020095"
+      },
+      {
+        "id": "141794050312252"
+      },
+      {
+        "id": "70030077043510033"
+      },
+      {
+        "id": "70030076176982706"
+      },
+      {
+        "id": "141794074691665"
+      },
+      {
+        "id": "70030077107066002"
+      },
+      {
+        "id": "141794050311336"
+      },
+      {
+        "id": "70030077190724560"
+      }
+    ],
+    "nearest_stations": [
+      {
+        "color": "#3EA332",
+        "comment": "Дзержинская линия",
+        "distance": 900,
+        "id": "141523467371738",
+        "name": "Маршала Покрышкина",
+        "route_logo": "metro_novosibirsk",
+        "route_types": [
+          "metro"
+        ]
+      },
+      {
+        "color": "#E90101",
+        "comment": "Ленинская линия",
+        "distance": 1100,
+        "id": "141523467371734",
+        "name": "Гагаринская",
+        "route_logo": "metro_novosibirsk",
+        "route_types": [
+          "metro"
+        ]
+      },
+      {
+        "color": "#3EA332",
+        "comment": "Дзержинская линия",
+        "distance": 1100,
+        "id": "141523467371221",
+        "name": "Сибирская",
+        "route_logo": "metro_novosibirsk",
+        "route_types": [
+          "metro"
+        ]
+      }
+    ]
+  },
+  "locale": "ru_RU",
+  "name": "Шиномонтажная мастерская",
+  "name_ex": {
+    "primary": "Шиномонтажная мастерская"
+  },
+  "org": {
+    "branch_count": 1,
+    "extension": "Шиномонтажная мастерская",
+    "id": "70000001110612598",
+    "name": "Шиномонтажная мастерская"
+  },
+  "poi_category": "service_station",
+  "point": {
+    "lat": 55.048738,
+    "lon": 82.927455
+  },
+  "region_id": "1",
+  "reviews": {
+    "general_rating": 4.9,
+    "general_review_count": 189,
+    "general_review_count_with_stars": 263,
+    "is_reviewable": true,
+    "is_reviewable_on_flamp": true,
+    "items": [
+      {
+        "is_reviewable": true,
+        "rating": 5,
+        "review_count": 1,
+        "tag": "2gis_reviews"
+      },
+      {
+        "is_reviewable": true,
+        "rating": 4.7,
+        "review_count": 30,
+        "tag": "flamp"
+      }
+    ],
+    "org_rating": 4.7,
+    "org_review_count": 189,
+    "org_review_count_with_stars": 263,
+    "rating": 4.7,
+    "review_count": 30
+  },
+  "rubrics": [
+    {
+      "alias": "shinomontazh",
+      "id": "7689",
+      "kind": "primary",
+      "name": "Шиномонтаж",
+      "parent_id": "42903",
+      "short_id": 7689
+    },
+    {
+      "alias": "svarochnye_raboty",
+      "id": "15335",
+      "kind": "additional",
+      "name": "Сварочные работы",
+      "parent_id": "9",
+      "short_id": 15335
+    },
+    {
+      "alias": "khranenie_shin",
+      "id": "22829",
+      "kind": "additional",
+      "name": "Хранение шин",
+      "parent_id": "42903",
+      "short_id": 22829
+    }
+  ],
+  "schedule": {
+    "Fri": {
+      "working_hours": [
+        {
+          "from": "09:00",
+          "to": "21:00"
+        }
+      ]
+    },
+    "Mon": {
+      "working_hours": [
+        {
+          "from": "09:00",
+          "to": "21:00"
+        }
+      ]
+    },
+    "Sat": {
+      "working_hours": [
+        {
+          "from": "09:00",
+          "to": "21:00"
+        }
+      ]
+    },
+    "Sun": {
+      "working_hours": [
+        {
+          "from": "09:00",
+          "to": "21:00"
+        }
+      ]
+    },
+    "Thu": {
+      "working_hours": [
+        {
+          "from": "09:00",
+          "to": "21:00"
+        }
+      ]
+    },
+    "Tue": {
+      "working_hours": [
+        {
+          "from": "09:00",
+          "to": "21:00"
+        }
+      ]
+    },
+    "Wed": {
+      "working_hours": [
+        {
+          "from": "09:00",
+          "to": "21:00"
+        }
+      ]
+    }
+  },
+  "search_attributes": {
+    "detection_type": 70,
+    "relevance": 47.5625
+  },
+  "segment_id": "0",
+  "timezone_offset": 420,
+  "type": "branch"
+}

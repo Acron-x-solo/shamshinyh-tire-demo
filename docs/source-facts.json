@@ -1,0 +1,201 @@
+{
+  "verified_at_utc": "2026-11-08T14:19:29+00:00",
+  "business": {
+    "firm_id": "70000001025191287",
+    "building_id": "70030076127509717",
+    "name": "Шиномонтажная мастерская",
+    "city": "Новосибирск",
+    "address": "Семьи Шамшиных, 93а",
+    "postcode": "630005",
+    "coordinates": {
+      "lat": 55.048738,
+      "lon": 82.927455
+    },
+    "phones": [
+      {
+        "number": "+79059564469",
+        "display": "+7‒905‒956‒44‒69",
+        "source_url": "https://2gis.ru/novosibirsk/firm/70000001025191287/tab/info"
+      },
+      {
+        "number": "+79138918022",
+        "display": "+7‒913‒891‒80‒22",
+        "source_url": "https://2gis.ru/novosibirsk/firm/70000001025191287/tab/info"
+      }
+    ],
+    "primary_social_or_messenger_contacts": [],
+    "schedule": {
+      "Fri": {
+        "working_hours": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "Mon": {
+        "working_hours": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "Sat": {
+        "working_hours": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "Sun": {
+        "working_hours": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "Thu": {
+        "working_hours": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "Tue": {
+        "working_hours": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      },
+      "Wed": {
+        "working_hours": [
+          {
+            "from": "09:00",
+            "to": "21:00"
+          }
+        ]
+      }
+    },
+    "schedule_display": "Ежедневно, 09:00–21:00",
+    "source_updated_at": "2026-07-08T11:55:23Z",
+    "source_created_at": "2016-09-01T00:00:00Z",
+    "rubrics": [
+      "Шиномонтаж",
+      "Сварочные работы",
+      "Хранение шин"
+    ],
+    "attribute_groups": [
+      {
+        "group": "Премия 2ГИС",
+        "names": [
+          "Номинант 2026"
+        ]
+      },
+      {
+        "group": "Шиномонтаж",
+        "names": [
+          "Сварка дисков",
+          "Ремонт порезов",
+          "Правка / Прокатка дисков",
+          "Ошиповка шин"
+        ]
+      },
+      {
+        "group": "Способы оплаты",
+        "names": [
+          "Оплата картой",
+          "Наличный расчёт",
+          "Перевод с карты"
+        ]
+      },
+      {
+        "group": "Актуальность данных",
+        "names": [
+          "Данные актуальны"
+        ]
+      }
+    ]
+  },
+  "reputation": {
+    "rating": 4.9,
+    "rating_count": 263,
+    "review_count": 189,
+    "source_url": "https://2gis.ru/novosibirsk/firm/70000001025191287",
+    "note": "263 — число оценок со звёздами; 189 — число отзывов. Общий рейтинг 4.9. Не подменять поля отдельным рейтингом Flamp 4.7."
+  },
+  "photos": {
+    "branch_photo_count": 55,
+    "price_photo_count": 1,
+    "price_photo_upload_time": "2026-04-17T03:35:50+00:00"
+  },
+  "price_catalog": {
+    "structured_items_total": 0,
+    "structured_categories": null,
+    "page_count_with_items": 0,
+    "visible_price_photos_total": 1,
+    "transcription_file": "docs/prices-transcribed.json",
+    "price_effective_date": null,
+    "lowest_seasonal_complex_rub": 2800,
+    "secondary_from_1400_used": false,
+    "note": "Прайс на фотографии даёт комплекс от 2800 руб. Вторичное «замена шин от 1400» не подтверждает текущую цену комплекса и не используется."
+  },
+  "secondary": {
+    "source_url": "https://totadres.ru/novosibirsk/org/shinoservis/745629",
+    "confirmed_name": "Шиномонтажная мастерская",
+    "confirmed_address": "Новосибирск, Семьи Шамшиных, 93А",
+    "phone": "+79059564469",
+    "schedule": "Ежедневно, 9:00–21:00",
+    "published_tyre_change_from_rub": 1400,
+    "social_links": [
+      {
+        "type": "vk",
+        "url": "https://vk.com/public170524376",
+        "primary_source_corroborated": false,
+        "note": "Точный href опубликован на вторичной карточке; в текущих contact_groups 2ГИС этой ссылки нет."
+      }
+    ]
+  },
+  "sources": [
+    {
+      "id": "2gis-firm",
+      "url": "https://2gis.ru/novosibirsk/firm/70000001025191287",
+      "kind": "primary_public_business_listing"
+    },
+    {
+      "id": "2gis-info",
+      "url": "https://2gis.ru/novosibirsk/firm/70000001025191287/tab/info",
+      "kind": "primary_public_business_contacts_and_attributes"
+    },
+    {
+      "id": "2gis-prices",
+      "url": "https://2gis.ru/novosibirsk/firm/70000001025191287/tab/prices",
+      "kind": "primary_public_prices_tab"
+    },
+    {
+      "id": "2gis-market-products",
+      "url": "https://market-backend.api.2gis.ru/5.0/product/items_by_branch?branch_id=70000001025191287&locale=ru_RU&page=1&page_size=50&feature_config=categories_without_fake_first_level,range_price_type_supported,from_price_type_supported,fas_not_ad_text",
+      "kind": "public_market_metadata"
+    },
+    {
+      "id": "2gis-price-photos",
+      "url": "https://market-backend.api.2gis.ru/5.0/price_list_images/items_by_branch?branch_id=70000001025191287&locale=ru_RU",
+      "kind": "public_price_image_metadata"
+    },
+    {
+      "id": "2gis-price-photo",
+      "url": "https://i8.photo.2gis.com/photo-gallery/24ad9f64-6d4d-4410-99f9-e0fa892d105d.jpg",
+      "kind": "user_photo_published_on_primary_listing"
+    },
+    {
+      "id": "totadres",
+      "url": "https://totadres.ru/novosibirsk/org/shinoservis/745629",
+      "kind": "secondary_directory"
+    }
+  ]
+}

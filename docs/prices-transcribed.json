@@ -1,0 +1,622 @@
+{
+  "schema_version": 1,
+  "verified_at_utc": "2026-11-08T14:19:29+00:00",
+  "firm_id": "70000001025191287",
+  "currency": "RUB",
+  "source": {
+    "page_url": "https://2gis.ru/novosibirsk/firm/70000001025191287/tab/prices",
+    "image_url": "https://i8.photo.2gis.com/photo-gallery/24ad9f64-6d4d-4410-99f9-e0fa892d105d.jpg",
+    "local_image": "docs/price-list-2gis.jpg",
+    "public_image": "public/images/price-list.webp",
+    "photo_id": "30258560307284701",
+    "image_upload_time": "2026-04-17T03:35:50+00:00",
+    "price_effective_date": null,
+    "date_note": "Дата загрузки фотографии не является датой обновления или начала действия прайса. Дата действия прайса на видимом фрагменте не указана.",
+    "downloaded_image_size": {
+      "width": 1440,
+      "height": 1080
+    },
+    "api_declared_image_size": {
+      "width": 1632,
+      "height": 1224
+    },
+    "transcription_method": "Visual reading of the published image, with enlarged crops; every visible value checked."
+  },
+  "structured_catalog": {
+    "total": 0,
+    "items": [],
+    "categories": null,
+    "page": 1,
+    "page_size": 50,
+    "additional_pages": 0
+  },
+  "seasonal_replacement": {
+    "service_id": "seasonal_replacement",
+    "source_label": "Комплекс (мойка+ш/м+баланс+груза+установка)*",
+    "section_label": "Комплекс на сезонную замену шин",
+    "unit": "комплекс",
+    "quantity": null,
+    "unit_note": "Строка комплекса не печатает количество колёс. Не добавлять неподтверждённое «за 4 колеса» как факт источника.",
+    "rows": [
+      {
+        "vehicle_type": "sedan",
+        "vehicle_label": "Седан",
+        "diameter_inches": {
+          "min": 13,
+          "max": 14
+        },
+        "price_rub": 2800,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "sedan",
+        "vehicle_label": "Седан",
+        "diameter_inches": {
+          "min": 15,
+          "max": 16
+        },
+        "price_rub": 3000,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "sedan",
+        "vehicle_label": "Седан",
+        "diameter_inches": {
+          "min": 17,
+          "max": 18
+        },
+        "price_rub": 3200,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "sedan",
+        "vehicle_label": "Седан",
+        "diameter_inches": {
+          "min": 19,
+          "max": 20
+        },
+        "price_rub": 4000,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "crossover",
+        "vehicle_label": "Кроссовер",
+        "diameter_inches": {
+          "min": 15,
+          "max": 16
+        },
+        "price_rub": 3600,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "crossover",
+        "vehicle_label": "Кроссовер",
+        "diameter_inches": {
+          "min": 17,
+          "max": 18
+        },
+        "price_rub": 4000,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "crossover",
+        "vehicle_label": "Кроссовер",
+        "diameter_inches": {
+          "min": 19,
+          "max": 20
+        },
+        "price_rub": 5000,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "crossover",
+        "vehicle_label": "Кроссовер",
+        "diameter_inches": {
+          "min": 21,
+          "max": 22
+        },
+        "price_rub": 5200,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "jeep",
+        "vehicle_label": "Джип",
+        "diameter_inches": {
+          "min": 15,
+          "max": 16
+        },
+        "price_rub": 4600,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "jeep",
+        "vehicle_label": "Джип",
+        "diameter_inches": {
+          "min": 17,
+          "max": 18
+        },
+        "price_rub": 5000,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "jeep",
+        "vehicle_label": "Джип",
+        "diameter_inches": {
+          "min": 19,
+          "max": 20
+        },
+        "price_rub": 6000,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "jeep",
+        "vehicle_label": "Джип",
+        "diameter_inches": {
+          "min": 21,
+          "max": 24
+        },
+        "price_rub": 7500,
+        "price_type": "exact"
+      }
+    ]
+  },
+  "balancing": {
+    "service_id": "balancing",
+    "source_label": "Балансировка (4 колеса+груза+мойка)",
+    "unit": "колесо",
+    "quantity": 4,
+    "rows": [
+      {
+        "vehicle_type": "sedan",
+        "vehicle_label": "Седан",
+        "diameter_inches": {
+          "min": 13,
+          "max": 14
+        },
+        "price_rub": 1200,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "sedan",
+        "vehicle_label": "Седан",
+        "diameter_inches": {
+          "min": 15,
+          "max": 16
+        },
+        "price_rub": 1400,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "sedan",
+        "vehicle_label": "Седан",
+        "diameter_inches": {
+          "min": 17,
+          "max": 18
+        },
+        "price_rub": 1400,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "sedan",
+        "vehicle_label": "Седан",
+        "diameter_inches": {
+          "min": 19,
+          "max": 20
+        },
+        "price_rub": 1800,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "crossover",
+        "vehicle_label": "Кроссовер",
+        "diameter_inches": {
+          "min": 15,
+          "max": 16
+        },
+        "price_rub": 1600,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "crossover",
+        "vehicle_label": "Кроссовер",
+        "diameter_inches": {
+          "min": 17,
+          "max": 18
+        },
+        "price_rub": 1800,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "crossover",
+        "vehicle_label": "Кроссовер",
+        "diameter_inches": {
+          "min": 19,
+          "max": 20
+        },
+        "price_rub": 2200,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "crossover",
+        "vehicle_label": "Кроссовер",
+        "diameter_inches": {
+          "min": 21,
+          "max": 22
+        },
+        "price_rub": 2400,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "jeep",
+        "vehicle_label": "Джип",
+        "diameter_inches": {
+          "min": 15,
+          "max": 16
+        },
+        "price_rub": 2000,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "jeep",
+        "vehicle_label": "Джип",
+        "diameter_inches": {
+          "min": 17,
+          "max": 18
+        },
+        "price_rub": 2200,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "jeep",
+        "vehicle_label": "Джип",
+        "diameter_inches": {
+          "min": 19,
+          "max": 20
+        },
+        "price_rub": 2800,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "jeep",
+        "vehicle_label": "Джип",
+        "diameter_inches": {
+          "min": 21,
+          "max": 24
+        },
+        "price_rub": 3200,
+        "price_type": "exact"
+      }
+    ]
+  },
+  "wheel_removal_installation": {
+    "service_id": "wheel_removal_installation",
+    "source_label": "Снятие/установка 4 колес",
+    "unit": "колесо",
+    "quantity": 4,
+    "rows": [
+      {
+        "vehicle_type": "sedan",
+        "vehicle_label": "Седан",
+        "diameter_inches": null,
+        "price_rub": 800,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "crossover",
+        "vehicle_label": "Кроссовер",
+        "diameter_inches": null,
+        "price_rub": 1200,
+        "price_type": "exact"
+      },
+      {
+        "vehicle_type": "jeep",
+        "vehicle_label": "Джип",
+        "diameter_inches": null,
+        "price_rub": 1600,
+        "price_type": "exact"
+      }
+    ]
+  },
+  "extras": [
+    {
+      "service_id": "tubeless_valve",
+      "source_label": "Вентиль б/к",
+      "price_rub": 150,
+      "price_type": "exact",
+      "unit": null,
+      "quantity": null,
+      "unit_note": "Количество/единица оплаты на снимке не указаны."
+    },
+    {
+      "service_id": "hub_grease",
+      "source_label": "Смазка ступицы",
+      "price_rub": 150,
+      "price_type": "exact",
+      "unit": null,
+      "quantity": null,
+      "unit_note": "Количество/единица оплаты на снимке не указаны."
+    },
+    {
+      "service_id": "tape_removal",
+      "source_label": "Удаление скотча",
+      "price_rub": 150,
+      "price_type": "exact",
+      "unit": null,
+      "quantity": null,
+      "unit_note": "Количество/единица оплаты на снимке не указаны."
+    },
+    {
+      "service_id": "bead_sealant",
+      "source_label": "Герметик бортов",
+      "price_rub": 150,
+      "price_type": "exact",
+      "unit": null,
+      "quantity": null,
+      "unit_note": "Количество/единица оплаты на снимке не указаны."
+    }
+  ],
+  "disc_services": {
+    "section_label": "Правка дисков",
+    "unit_note": "Явная единица оплаты не напечатана в видимом фрагменте. Звёздочки у двух строк сохранены; пояснение к ним ниже кадра отсутствует.",
+    "rows": [
+      {
+        "service_id": "alloy_disc_straightening",
+        "source_label": "Правка литых дисков*",
+        "diameter_inches": {
+          "min": 13,
+          "max": 14
+        },
+        "vehicle_type": null,
+        "price_rub": 2000,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "alloy_disc_straightening",
+        "source_label": "Правка литых дисков*",
+        "diameter_inches": {
+          "min": 15,
+          "max": 15
+        },
+        "vehicle_type": null,
+        "price_rub": 2200,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "alloy_disc_straightening",
+        "source_label": "Правка литых дисков*",
+        "diameter_inches": {
+          "min": 16,
+          "max": 16
+        },
+        "vehicle_type": null,
+        "price_rub": 2300,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "alloy_disc_straightening",
+        "source_label": "Правка литых дисков*",
+        "diameter_inches": {
+          "min": 17,
+          "max": 17
+        },
+        "vehicle_type": null,
+        "price_rub": 2400,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "alloy_disc_straightening",
+        "source_label": "Правка литых дисков*",
+        "diameter_inches": {
+          "min": 18,
+          "max": 18
+        },
+        "vehicle_type": null,
+        "price_rub": 2600,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "alloy_disc_straightening",
+        "source_label": "Правка литых дисков*",
+        "diameter_inches": {
+          "min": 19,
+          "max": 19
+        },
+        "vehicle_type": null,
+        "price_rub": 2800,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "alloy_disc_straightening",
+        "source_label": "Правка литых дисков*",
+        "diameter_inches": {
+          "min": 20,
+          "max": 20
+        },
+        "vehicle_type": null,
+        "price_rub": 3000,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "alloy_disc_straightening",
+        "source_label": "Правка литых дисков*",
+        "diameter_inches": {
+          "min": 21,
+          "max": 24
+        },
+        "vehicle_type": null,
+        "price_rub": 3500,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "stamped_disc_rolling",
+        "source_label": "Прокатка* штампованных дисков",
+        "diameter_inches": {
+          "min": 13,
+          "max": 14
+        },
+        "vehicle_type": null,
+        "price_rub": 1000,
+        "price_type": "from",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "stamped_disc_rolling",
+        "source_label": "Прокатка* штампованных дисков",
+        "diameter_inches": {
+          "min": 15,
+          "max": 15
+        },
+        "vehicle_type": null,
+        "price_rub": 1200,
+        "price_type": "from",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "stamped_disc_rolling",
+        "source_label": "Прокатка* штампованных дисков",
+        "diameter_inches": {
+          "min": 16,
+          "max": 16
+        },
+        "vehicle_type": null,
+        "price_rub": 1500,
+        "price_type": "from",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "alloy_disc_wobble_correction",
+        "source_label": "Устранение восьмёрки на литом диске",
+        "diameter_inches": {
+          "min": 13,
+          "max": 16
+        },
+        "vehicle_type": null,
+        "price_rub": 1500,
+        "price_type": "from",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "alloy_disc_wobble_correction",
+        "source_label": "Устранение восьмёрки на литом диске",
+        "diameter_inches": {
+          "min": 17,
+          "max": 17
+        },
+        "vehicle_type": null,
+        "price_rub": 1500,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "alloy_disc_wobble_correction",
+        "source_label": "Устранение восьмёрки на литом диске",
+        "diameter_inches": {
+          "min": 18,
+          "max": 18
+        },
+        "vehicle_type": null,
+        "price_rub": 170,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null,
+        "needs_confirmation": true,
+        "note": "На снимке действительно напечатано 170. Не исправлять на 1700 по предположению; не использовать в расчёте без подтверждения мастерской."
+      },
+      {
+        "service_id": "alloy_disc_wobble_correction",
+        "source_label": "Устранение восьмёрки на литом диске",
+        "diameter_inches": {
+          "min": 19,
+          "max": 19
+        },
+        "vehicle_type": null,
+        "price_rub": 1800,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "alloy_disc_wobble_correction",
+        "source_label": "Устранение восьмёрки на литом диске",
+        "diameter_inches": {
+          "min": 20,
+          "max": 20
+        },
+        "vehicle_type": null,
+        "price_rub": 1900,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null
+      },
+      {
+        "service_id": "alloy_disc_wobble_correction",
+        "source_label": "Устранение восьмёрки на литом диске",
+        "diameter_inches": {
+          "min": 21,
+          "max": 24
+        },
+        "vehicle_type": null,
+        "price_rub": 2000,
+        "price_type": "exact",
+        "unit": null,
+        "quantity": null
+      }
+    ],
+    "not_published_cells": [
+      {
+        "service_id": "stamped_disc_rolling",
+        "diameter_inches": {
+          "min": 17,
+          "max": 24
+        },
+        "note": "Ячейка в видимом фрагменте пустая; цена не опубликована."
+      }
+    ]
+  },
+  "surcharges": [
+    {
+      "source_text": "Низкий профиль от 45 / RUNFLAT + 150 руб. за колесо",
+      "price_rub": 150,
+      "unit": "колесо",
+      "quantity": 1,
+      "applies_to_source_row": "Комплекс (мойка+ш/м+баланс+груза+установка)*",
+      "profile_condition_literal": "Низкий профиль от 45",
+      "runflat": true,
+      "interpretation_note": "Условие профиля переписано буквально; не заменять «от 45» на «ниже 45» без подтверждения."
+    }
+  ],
+  "notices": [
+    {
+      "source_text": "Уважаемые клиенты! Утилизацией шин не занимаемся!"
+    }
+  ],
+  "limitations": [
+    "Фотография обрезает нижнюю часть физического прайса. В файле собраны все читаемые видимые строки; скрытые строки и сноски не восстановлены.",
+    "Единицы оплаты для комплекса, четырёх дополнительных услуг и правки дисков не полностью указаны.",
+    "R18 в строке устранения восьмёрки содержит подозрительную, но ясно напечатанную цену 170 руб.",
+    "Опубликованный структурированный каталог 2ГИС пуст; цены извлечены из одной пользовательской фотографии."
+  ],
+  "visible_price_cell_count": 48,
+  "visible_surcharge_count": 1
+}

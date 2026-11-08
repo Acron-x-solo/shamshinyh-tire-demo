@@ -1,0 +1,50 @@
+{
+  "source_url": "https://market-backend.api.2gis.ru/5.0/price_list_images/items_by_branch?branch_id=70000001025191287&locale=ru_RU",
+  "response": {
+    "meta": {
+      "code": 200,
+      "api_version": "5.1.0"
+    },
+    "result": [
+      {
+        "total": 1,
+        "album_code": "common",
+        "items": [
+          {
+            "id": "30258560307284701",
+            "status": "active",
+            "url": "https://i8.photo.2gis.com/photo-gallery/24ad9f64-6d4d-4410-99f9-e0fa892d105d.jpg",
+            "real_object_type": "branch",
+            "description": "",
+            "height": 1224,
+            "width": 1632,
+            "is_main": false,
+            "is_visible": true,
+            "position": 0,
+            "preview_urls": {},
+            "copyright": {
+              "type": "text",
+              "value": "Фотография от пользователя",
+              "url": null,
+              "provider_icon": "https://cachizer1.2gis.com/photo-providers/c4728d87-8e84-4621-b27a-e91b4f530ae3.png?w={width}&h={height}",
+              "code": "user",
+              "icon": "https://i.photo.2gis.com/logo/2gis.svg",
+              "title": "Татьяна Коноплева"
+            },
+            "owner": {
+              "id": "17396964",
+              "public_id": "ad0c20d1807c49a1b87c9cf5955bfa19",
+              "name": "Татьяна Коноплева",
+              "avatar": "https://i8.photo.2gis.com/images/profile/30258560263692619_d421.jpg"
+            },
+            "creation_time": "2026-04-17T03:35:50+00:00",
+            "modification_time": "2026-04-17T03:35:57+00:00",
+            "is_pinned": false,
+            "pinned_position": null
+          }
+        ]
+      }
+    ]
+  },
+  "fetched_at_utc": "2026-11-08T14:20:10+00:00"
+}
